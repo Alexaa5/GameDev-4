@@ -1376,3 +1376,49 @@ Make sure 'Customer' has been compiled for  Set DialougeText
 [2018.11.27-20.20.59:757][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DialogueStuff/DialogueStructure]
 [2018.11.27-20.20.59:801][517]LogSavePackage: Moving '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/DialogueStructure_Auto5AC03470F468C1C71D39111B94165E0BB.tmp' to '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/Autosaves/Game/Blueprints/DialogueStuff/DialogueStructure_Auto5.uasset'
 [2018.11.27-20.20.59:815][517]LogFileHelpers: Auto-saving content packages took 0.066
+[2018.11.27-20.31.00:222][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DialogueTest' took 0.152
+[2018.11.27-20.31.00:233][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DialogueStuff/DialogueStructure] ([1] browsable assets)...
+[2018.11.27-20.31.00:234][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DialogueStuff/DialogueStructure]
+[2018.11.27-20.31.00:300][381]LogSavePackage: Moving '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/DialogueStructure_Auto6EA15A37C4986E580C2C1BE9CA06FAE64.tmp' to '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/Autosaves/Game/Blueprints/DialogueStuff/DialogueStructure_Auto6.uasset'
+[2018.11.27-20.31.00:317][381]LogFileHelpers: Auto-saving content packages took 0.090
+[2018.11.27-20.47.48:214][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-20.47.48:340][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-20.47.48:342][ 77]PIE: New page: PIE session: DialogueTest (Nov 27, 2018, 10:47:48 AM)
+[2018.11.27-20.47.48:343][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DialogueTest
+[2018.11.27-20.47.48:358][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013733s)
+[2018.11.27-20.47.48:361][ 77]LogAIModule: Creating AISystem for world DialogueTest
+[2018.11.27-20.47.48:363][ 77]LogPlayLevel: PIE: World Init took: (0.004954s)
+[2018.11.27-20.47.48:364][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DialogueTest.DialogueTest to /Game/Maps/UEDPIE_0_DialogueTest.DialogueTest (0.021197s)
+[2018.11.27-20.47.48:553][ 77]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-20.47.48:680][ 77]LogInit: FAudioDevice initialized.
+[2018.11.27-20.47.48:728][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.27-20.47.48:734][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DialogueTest.DialogueTest up for play (max tick rate 60) at 2018.11.27-15.47.48
+[2018.11.27-20.47.48:736][ 77]LogWorld: Bringing up level for play took: 0.004663
+[2018.11.27-20.47.48:757][ 77]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DialogueTest -0.17
+[2018.11.27-20.47.53:824][254]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.11.27-20.47.54:264][270]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.11.27-20.47.54:584][283]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.11.27-20.47.54:907][296]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.11.27-20.48.54:469][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-20.48.54:554][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-20.48.54:689][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-20.48.54:816][530]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.11.27-20.50.47:146][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-00.17.48:825][664]LogHttp: Warning: 000002DFA26142C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.28-00.17.48:826][664]LogHttp: Warning: 000002DFA26142C0: libcurl info message cache 0 (Connection 71 seems to be dead!)
+[2018.11.28-00.17.48:828][664]LogHttp: Warning: 000002DFA26142C0: libcurl info message cache 1 (Closing connection 71)
+[2018.11.28-00.17.48:829][664]LogHttp: Warning: 000002DFA26142C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.28-00.17.48:831][664]LogHttp: Warning: 000002DFA26142C0: libcurl info message cache 3 (Closing connection 72)
+[2018.11.28-00.18.05:175][923]LogSavePackage: Moving '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/DialogueTest601CA03A40FDFA9C72C6478CB29169F5.tmp' to '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Content/Maps/DialogueTest.umap'
+[2018.11.28-00.18.05:299][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DialogueTest_BuiltData" FILE="../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Content/Maps/DialogueTest_BuiltData.uasset" SILENT=true
+[2018.11.28-00.18.05:369][923]LogSavePackage: Moving '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/DialogueTest_BuiltDataFB79BF9B45EA49B159DA9E843486C957.tmp' to '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Content/Maps/DialogueTest_BuiltData.uasset'
+[2018.11.28-00.18.15:903][282]LogSavePackage: Moving '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Saved/DialogueStructure4F2A230A4F7DC2D55787AC815266DB6D.tmp' to '../../../../../../Users/Zaire/Documents/Game Dev 1/GameDev 4/Project4/Content/Blueprints/DialogueStuff/DialogueStructure.uasset'
+[2018.11.28-00.18.17:535][352]LogSlate: Window 'DialogueStructure' being destroyed
+[2018.11.28-00.18.17:550][352]LogSlate: Window 'DialogueStructure' being destroyed
+[2018.11.28-00.18.18:290][352]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.28-00.18.19:258][376]LogSlate: Window 'Message Log' being destroyed
+[2018.11.28-00.18.19:268][376]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-00.18.19:492][376]LogSlate: Window 'Project4 - Unreal Editor' being destroyed
+[2018.11.28-00.18.19:495][376]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-00.18.20:544][377]Cmd: QUIT_EDITOR
+[2018.11.28-00.18.21:490][377]LogExit: Preparing to exit.
